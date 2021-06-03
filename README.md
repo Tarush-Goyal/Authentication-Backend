@@ -6,7 +6,7 @@ This project was created with [Node](https://nodejs.org/en/) version 14.2.0.
 
 ## Dependencies Installation
 
-Run 'npm install' to install all required project dependencies and node modules. 
+Run `npm install` to install all required project dependencies and node modules. 
 
 ## Development server
 
